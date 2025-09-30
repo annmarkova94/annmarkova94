@@ -1,16 +1,24 @@
-## Hi there 👋
+## Привет! Я — Аня 👋
 
-<!--
-**annmarkova94/annmarkova94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Проджект/продакт с 3+ лет в Яндексе, ранее бизнес-аналитик и руководитель мерчендайзинга в ритейле. Бэкграунд — экономика, финансы и аналитика.  
+🚀 Сейчас развиваюсь в Data Science и собираю портфолио проектов.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Проекты
+
+- [📊 Предсказание риска сердечного приступа](https://github.com/annmarkova94/Project_10_HeartRisk) — CatBoost, FastAPI (учебный проект).
+- [🛠️ TBA]() — TBA.  
+
+---
+
+### Стек
+
+- Python (pandas, numpy, scikit-learn, matplotlib) · SQL · Git · Jupyter  
+- основы продакт-инструментов: JTBD, CJM, метрики, юнит-экономика, А/Б тесты  
+
+---
+
+### Контакты
+
+📬 annmarkova94@gmail.com · 💼 [LinkedIn](TBD)
