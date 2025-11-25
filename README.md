@@ -7,8 +7,8 @@
 
 ### Проекты
 
-- [📊 Предсказание риска сердечного приступа](https://github.com/annmarkova94/Project_10_HeartRisk) — CatBoost, FastAPI (учебный проект).
-- [🛠️ TBA]() — TBA.  
+- [🚗 Предсказание рыночной стоимость автомобилей](https://github.com/annmarkova94/car_pricing) — DecisionTreeRegressor, LGBMRegressor, CatBoostRegressor (учебный проект).
+- [🫀 Предсказание риска сердечного приступа](https://github.com/annmarkova94/Project_10_HeartRisk) — CatBoost, FastAPI (учебный проект). 
 
 ---
 
