@@ -21,4 +21,4 @@
 
 ### Контакты
 
-📬 annmarkova94@gmail.com · 💼 [LinkedIn](TBD)
+📬 annmarkova94@gmail.com
