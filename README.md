@@ -14,8 +14,9 @@
 
 ### Стек
 
-- Python (pandas, numpy, scikit-learn, matplotlib) · SQL · Git · Jupyter  
-- основы продакт-инструментов: JTBD, CJM, метрики, юнит-экономика, А/Б тесты  
+- Python (pandas, numpy, scikit-learn, matplotlib) · SQL · Git · Jupyter
+- FastAPI, Kafka, Docker
+- Продакт-инструменты: JTBD, CJM, метрики, юнит-экономика, А/Б тесты  
 
 ---
 
